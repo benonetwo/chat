@@ -33,6 +33,15 @@ npm run build
 
 ### Start the app
 
+
+
+
 ```shell
+cd backend
 npm start
+```
+
+```shell
+cd frontend
+npm run dev
 ```
